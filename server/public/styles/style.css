@@ -1,0 +1,36 @@
+.personcontainer {
+    height: 200px;
+}
+
+.indexpoint {
+    height: 10px;
+    width: 10px;
+    background-color: blue;
+    border:1px solid black;
+    margin: 0 5px;
+    display: inline-block;
+}
+
+.indexcontainer {
+    text-align: center;
+}
+
+.selected {
+    background-color: red;
+}
+
+.buttoncontainer {
+    text-align: center;
+}
+
+img {
+    margin: 5px;
+    padding:5px;
+    width: 75px;
+    border: solid 1px black;
+    backgound: white;
+}
+
+#container {
+    text-align: center;
+}
